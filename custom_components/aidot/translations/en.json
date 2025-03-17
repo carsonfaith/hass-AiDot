@@ -19,7 +19,7 @@
                 "description": "Log in to the Aidot cloud, see https://www.aidot.com#country-servers for the cloud server to use.",
                 "title": "Aidot"
             },
-            "choose_house": {Living Room}
+            "choose_house": {Living Room
                 "data": {
                     "choose_house": "Living Room"
                 },
